@@ -1,7 +1,5 @@
 # C++ for Programmers
 
-## Overview
-
 A short course provided by Udacity which provides an introduction to the basics of cpp. The main topics covered are:
 
 * Basics like program structure
